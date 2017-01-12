@@ -4,8 +4,7 @@ date: 2017-01-12 13:56:36
 categories:
   	- 项目管理
 tags:
-	- 产品
-	- 业务流程图
+	- 产品需求
 ---
 本文整理自[此处](http://www.woshipm.com/pd/3795.html)，如有侵权，请告知。
 
