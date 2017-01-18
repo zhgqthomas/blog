@@ -25,3 +25,5 @@ There is one person very good at this. And eveybody knows him. Donald Trump! Bel
 If I could give you one thing to take from this. It is no one will believe in you unless you do. We're supposed to be different, folks. And when people look at us, believe in yourself. Thank you.
 
 P.S. The article comes with a PPT, [Click here](https://speakerdeck.com/zhgqthomas/self-confidence)
+
+<script async class="speakerdeck-embed" data-id="0ba6d937f6ac4dae88dd3f5e3639d49c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>

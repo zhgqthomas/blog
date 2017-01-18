@@ -577,3 +577,5 @@ public static class Binding extends Activity {
     Messenger 只提供了一个方法进行进程间通信，就是 send(Message msg) 方法，发送的是一个 Message，没有返回值，要拿到返回值，需要把 Client 的 Messenger 作为 `msg.replyTo` 参数传递过去，Service 端处理完之后，在调用客户端的 Messenger 的 send(Message msg) 方法把返回值传递回 Client，这个过程是异步的，而 AIDL 你可以自己指定方法，指定返回值，它获取返回值是同步的（如果没有用 oneway 修饰方法的话）。
 
 P.S. 该文章还配有对应的 PPT， 请[点击这里](https://speakerdeck.com/zhgqthomas/android-interprocess-commuincation)
+
+<script async class="speakerdeck-embed" data-id="43c803edf21b48a9a885ba21295b1b11" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
