@@ -6,7 +6,7 @@
 title: Shadark
 subtitle: 暗影鲨
 description:
-author: 骑摩托的托马斯
+author: 骑摩托马斯
 language: zh-Hans
 timezone: Asia/Shanghai
 avatar: /uploads/avatar.jpeg
@@ -80,9 +80,9 @@ google_analytics: UA-89996671-1
 deploy:
   type: rsync
   host: blog.shadark.com
-  user: root
-  root: ~/hexo
-  port: 26357
+  user: thomas
+  root: /home/thomas/blog/content
+  port: 27092
   delete: true
   verbose: true
   ignore_errors: false

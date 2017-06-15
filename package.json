@@ -1,9 +1,9 @@
 {
-  "name": "hexo-site",
+  "name": "blog-shadark",
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.2.2"
+    "version": "3.3.7"
   },
   "dependencies": {
     "hexo": "^3.2.0",
@@ -13,8 +13,8 @@
     "hexo-generator-index": "^0.2.0",
     "hexo-generator-tag": "^0.2.0",
     "hexo-renderer-ejs": "^0.2.0",
-    "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-stylus": "^0.3.1",
+    "hexo-renderer-marked": "^0.2.10",
     "hexo-server": "^0.2.0"
   }
 }
