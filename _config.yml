@@ -68,9 +68,9 @@ pagination_dir: page
 theme: next
 
 # Duoshuo
-duoshuo_shortname: blogshadark
-duoshuo_share: true
-duoshuo_hotartical: true
+#duoshuo_shortname: blogshadark
+#duoshuo_share: true
+#duoshuo_hotartical: true
 
 # Google Analytics
 google_analytics: UA-89996671-1
